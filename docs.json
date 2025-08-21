@@ -17,8 +17,8 @@
             "group": "Get started",
             "pages": [
               "index",
-              "quickstart",
-              "templates",
+              "get-the-apps",
+              "use-cases",
               "troubleshooting"
             ]
           },
@@ -27,19 +27,36 @@
             "pages": [
               "editor/viewport-navigation",
               "editor/keyboard-shortcuts",
-              "Triggers and Actions"
+              "Triggers and Actions",
+              "assets"
             ]
           },
           {
             "group": "Mirror",
             "pages": [
-              "mirror-navigation"
+              "mirror/vision-navigation",
+              "mirror/quest-navigation",
+              "mirror/ios-navigation"
             ]
           },
           {
             "group": "Portal",
             "pages": [
-              "Team Management"
+              "portal/team-management"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Learn",
+        "groups": [
+          {
+            "group": "Learn",
+            "pages": [
+              "tutorials/overview",
+              "/tutorials/basics/oo-101",
+              "/tutorials/basics/templates",
+              "/tutorials/basics/tutorials"
             ]
           }
         ]
@@ -60,12 +77,6 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Get the apps",
-        "href": "https://app.ordinary.space"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "Portal",
