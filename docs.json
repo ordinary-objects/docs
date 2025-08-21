@@ -28,7 +28,7 @@
               "editor/viewport-navigation",
               "editor/keyboard-shortcuts",
               "Triggers and Actions",
-              "assets"
+              "editor/assets"
             ]
           },
           {
@@ -55,8 +55,16 @@
             "pages": [
               "tutorials/overview",
               "/tutorials/basics/oo-101",
-              "/tutorials/basics/templates",
-              "/tutorials/basics/tutorials"
+              "/tutorials/basics/templates"
+             
+            ]
+          },
+          {
+            "group": "Tutorials",
+            "pages": [
+              "/tutorials/basics/tutorials",
+              "/tutorials/asset-preparation"
+      
             ]
           }
         ]
