@@ -62,9 +62,13 @@
           {
             "group": "Tutorials",
             "pages": [
-              "/tutorials/basics/tutorials",
-              "/tutorials/asset-preparation"
-      
+              "/tutorials/basics/tutorials"
+            ]
+          },
+          {
+            "group": "Asset Handling",
+            "pages": [
+              "/tutorials/asset-handling/shape-key-animations-vision-pro"      
             ]
           }
         ]
@@ -91,21 +95,10 @@
       "href": "https://app.ordinary.space"
     }
   },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
   "footer": {
     "socials": {
-      "linkedin": "https://www.linkedin.com/company/ordinaryobjectsdesign"
+      "linkedin": "https://www.linkedin.com/company/ordinaryobjectsdesign",
+      "youtube": "https://www.youtube.com/@ordinary.objects"
     }
   }
 }

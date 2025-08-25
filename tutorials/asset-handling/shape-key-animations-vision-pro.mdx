@@ -1,0 +1,27 @@
+---
+title: "Shape Key Animations for Vision Pro"
+description: "Shape Keys require a trick to load successfully."
+---
+
+<Steps>
+  <Step title="Add Armature">
+    Select the object with the shape key animation and press shift + A
+  </Step>
+  <Step title="Add Single Bone">
+    Go to, armature and add a single bone
+    This drops the bone in hierarchy, but it's not connected to the object
+  </Step>
+  <Step title="Select Both Objects">
+    Select both, the object and the armature (bone), first select the armature, then the object
+  </Step>
+  <Step title="Parent Objects">
+    Then press command + P to parent
+  </Step>
+  <Step title="Choose Automatic Weights">
+    Select 'with automatic weights'
+  </Step>
+  <Step title="Export Settings">
+    For export select the armature in the hierarchy and choose 'Selected Objects' under Include 'Limit to' in the export settings.
+  </Step>
+</Steps>
+
