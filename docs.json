@@ -68,7 +68,8 @@
           {
             "group": "Asset Handling",
             "pages": [
-              "/tutorials/asset-handling/shape-key-animations-vision-pro"      
+              "/tutorials/asset-handling/shape-key-animations-vision-pro",
+              "/tutorials/asset-handling/3d-model-optimizations"
             ]
           }
         ]
