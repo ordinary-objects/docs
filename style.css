@@ -1,3 +1,9 @@
 .no-style{
     border:0;
 }
+
+thead, tbody{
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
