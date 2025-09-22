@@ -26,7 +26,8 @@
             "pages": [
               "editor/viewport-navigation",
               "editor/keyboard-shortcuts",
-              "editor/assets"
+              "editor/assets",
+              "editor/export"
             ]
           },
           {
